@@ -1,0 +1,3 @@
+FOR=gfortran
+DIR="./"
+
